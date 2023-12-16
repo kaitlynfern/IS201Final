@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://images.metroparent.com/wp-content/uploads/2020/02/how-rare-are-four-leaf-clovers.jpg);
+    width: 100%;
+}
+
+.common{
+    align-items: center;
+    font-style: italic;
+    color: black;
+    width: 100%;
+}
+
+.tableaustyle{
+    display: block;
+    margin: auto;
+    width: 100%;
+    bottom: 10px;
+}
+
+.center{
+    display: block;
+    margin: auto;
+}
+
+h1{
+    background-color: rgb(112, 172, 88);
+}
+
+.header{
+    position: absolute;
+    top: 0px;
+    background-color: rgba(255, 228, 196, 0.809)6, 203, 175;
+}
+
+.b4main{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 300px;
+}
+
+.mainstuff{
+    background-color: rgba(251, 237, 220, 0.655);
+    position: absolute;
+    top:350px;
+    width: 75%;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    bottom: 100px;
+}
+
+.footer{
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+    font-size: large;
+    background-color: rgb(218, 183, 211);
+}
+
