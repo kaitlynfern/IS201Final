@@ -1,0 +1,12 @@
+
+h2{
+    font-family: 'Cosmic Sans', 'Courier New', Courier, monospace;
+}
+
+.mb-2{
+    width: 500px;
+}
+
+.darkcolor{
+    background-color: rgb(164, 241, 164) !important;
+}
